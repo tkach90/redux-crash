@@ -15,8 +15,8 @@ function App() {
                 <img src={logo} className="App-logo" alt="logo" />
 
               </header>
-              <Posts />
               <Postform/>
+              <Posts />
           </div>
       </Provider>
 
